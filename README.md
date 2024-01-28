@@ -1,6 +1,6 @@
 # created on January 2024
 # @author:          Zahra Firoz
-# @email:           zahrafo@uw.edu
+# @email:           zahraf@uw.edu
 # @website:         https://
 # @organization:    Geo 458a Lab number 2, University of Washington, Seattle
 # @description:     A demo of collecting data from YouTube.
