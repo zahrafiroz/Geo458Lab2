@@ -7,13 +7,9 @@
 
 #words
 var words = [
-  {text: "Lorem", weight: 13},
-  {text: "Ipsum", weight: 10.5},
-  {text: "Dolor", weight: 9.4},
-  {text: "Sit", weight: 8},
-  {text: "Amet", weight: 6.2},
-  {text: "Consectetur", weight: 5},
-  {text: "Adipiscing", weight: 5},
+  {text: "Beautiful", weight: 13},
+  {text: "Afghan", weight: 10.5},
+  {text: "Mountains", weight: 9.4},
   /* ... */
 ];
 
@@ -21,9 +17,9 @@ $('#demo').jQCloud(words);
 
 #links
 var words = [
-  {text: "Lorem", weight: 13, link: 'http://github.com/mistic100/jQCloud'},
-  {text: "Ipsum", weight: 10.5, link: 'http://www.strangeplanet.fr'},
-  {text: "Dolor", weight: 9.4, link: 'http://piwigo.org'},
+  {text: "Afghanistan", weight: 13, link: 'http://github.com/mistic100/jQCloud'},
+  {text: "Geography", weight: 10.5, link: 'http://www.strangeplanet.fr'},
+  {text: "HinduKush", weight: 9.4, link: 'http://piwigo.org'},
   /* ... */
 ];
 
@@ -50,7 +46,7 @@ pip install selenium chromedriver_autoinstaller
   Since I visit Afghanistan every year I have seen firsthand the beauty of the lands and the impressive geography that this country lies on. The main hope for this research is being able to show the topics that are highlighted in regards to Afghanistan and a country that is so often painted as a villain, but holds such a deep and powerful history and so much amazing geography. Moreover, this will also touch on technology and access that we so often take for granted in countries such as America. Everywhere has a geography and information systems that should be in place however in countries such as Afghanistan where technology is often reserved for a select few elite that can afford it, it is our job as geographers to acknowledge this gap and the many issues that come with geography becoming such a digitized domain, especially in regards to communities with little to no access to technology. 
 
 ##Compare the word clouds and discuss the difference or similarity among the word clouds;
-  The word clouds that were produced based on this study...
+  The word clouds that were produced based on this study were very similar to one another with little to no variation. There were more varrying results in the twitter as it is easier to produce a tweet than a video and therefore can have differing results. The most ccommon word was Afghanistan and geography which could be expected.
 
 ##What might be the possible reasons for the patterns you observed;
   There are a multitude of reasons that patterns can be formed on the web. Youtube is often the go to video platform for quick understanding and therefore would be most commonly featuring content that is being searched for or watched the most. Every website has an algorithm and that is made to keep people coming back and intrigued with the content provided by the website. There is also the idea of forcing content pushed by organizations, companies, brands, governments, and so on in order to put a narrative out there. This means that the most viewed, liked, interacted with, etc, content is being forced onto people in hopes that they engage and it keeps building therefore making brands and companys money, and putting the narrative that these higher ups and people in power want out there. 
