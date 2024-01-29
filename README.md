@@ -5,17 +5,6 @@
 # @organization:    Geo 458a Lab number 2, University of Washington, Seattle
 # @description:     A demo of collecting data from YouTube.
 
-#words
-var words = [
-  {text: "Beautiful", weight: 13},
-  {text: "Afghan", weight: 10.5},
-  {text: "Mountains", weight: 9.4},
-  /* ... */
-];
-
-$('#demo').jQCloud(words);
-
-
 %%shell
 sudo apt -y update
 sudo apt install -y wget curl unzip
@@ -25,7 +14,6 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 dpkg -i google-chrome-stable_current_amd64.deb
 
 pip install selenium chromedriver_autoinstaller
-
 
 #Analysis and Understanding
 
@@ -46,3 +34,16 @@ pip install selenium chromedriver_autoinstaller
   
 ##Anything you find from the map or data that is different from your expectation before the exercise, or anything that stands out to you;
   I was honestly surprised that I was able to find as much as I did. I knew that there was not going to be a vast array of finds with such a niche topic such as geography and GIS in Afghanistan but nonetheless it was interesting to see what is out there and the information that is available for anyone to interperet. I am saddened to see that there is not as much recent study and available content as a lot of what was found way a few years old at the least but again, this was to be expected. 
+
+  var words = [
+  {text: "Afghanistan", weight: 13},
+  {text: "Geography", weight: 10.5},
+  {text: "Beautiful", weight: 9.4},
+  {text: "Mountainous", weight: 8},
+  {text: "HinduKush", weight: 6.2},
+  {text: "GIS", weight: 5},
+  {text: "Geo", weight: 5},
+  /* ... */
+];
+
+$('#demo').jQCloud(words);
