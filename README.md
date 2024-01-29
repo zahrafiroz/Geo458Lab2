@@ -15,16 +15,6 @@ var words = [
 
 $('#demo').jQCloud(words);
 
-#links
-var words = [
-  {text: "Afghanistan", weight: 13, link: 'http://github.com/mistic100/jQCloud'},
-  {text: "Geography", weight: 10.5, link: 'http://www.strangeplanet.fr'},
-  {text: "HinduKush", weight: 9.4, link: 'http://piwigo.org'},
-  /* ... */
-];
-
-$('#demo').jQCloud(words);
-
 
 %%shell
 sudo apt -y update
